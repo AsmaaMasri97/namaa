@@ -1,7 +1,7 @@
 # namaa
 1 - clone the project.
 2 - git fetch .
-3 - git checkout main .
+3 - git checkout master .
 4 -  open project in vs code .
 5 -  open terminal .
 6 - run this command line "npm install --force" , this command for install node modules .
